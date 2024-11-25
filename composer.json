@@ -3,7 +3,7 @@
     "description": "OpenMage tools that are only needed for development.",
     "license": "OSL-3.0",
     "type": "metapackage",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "authors": [
         {
             "name": "Sven Reichel",
