@@ -3,7 +3,7 @@
     "description": "OpenMage tools that are only needed for development.",
     "license": "OSL-3.0",
     "type": "metapackage",
-    "version": "1.0.6",
+    "version": "1.1.0",
     "authors": [
         {
             "name": "Sven Reichel",
@@ -11,7 +11,6 @@
         }
     ],
     "require": {
-        "openmage/dev-translations": "dev-main",
-        "openmage/dev-copyright": "dev-main"
+        "openmage/dev-translations": "dev-main"
     }
 }
